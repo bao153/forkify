@@ -1,2 +1,2 @@
 # forkify
-Recipe generator written in Javascript based on Forkify API
+Recipe generator written in Javascript, HTML and CSS, based on Forkify API
